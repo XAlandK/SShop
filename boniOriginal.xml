@@ -1,7 +1,8 @@
 <?xml version="1.0"?>
 <catalog>
     <bon id="1">
-        <title>To Kill a Mockingbird</title>
-        <author>Harper Lee</author>
+        <name>To Kill a Mockingbird</name>
+        <price>100$</price>
+        <text>aaaaaaaa</text>
     </bon>
 </catalog>
