@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
 	<channel>
-		<title>Apple Hot News</title>
+		<title>S Shop - New Products</title>
 		<link>http://www.apple.com/hotnews/</link>
-		<description>Hot News provided by Apple.</description>
+		<description></description>
 		<language>en-us</language>
-		<copyright>Copyright 2016, Apple Inc.</copyright>
+		<copyright>Copyright 2017, S Shop.</copyright>
 		<pubDate>Tue, 26 Apr 2016 15:53:26 PDT</pubDate>
 		<lastBuildDate>Tue, 26 Apr 2016 15:53:26 PDT</lastBuildDate>
-		<category>Apple</category>
+		<category>Shopping - S Shop</category>
 		<generator>In house</generator>
 		<docs>http://blogs.law.harvard.edu/tech/rss/</docs>
 		<item>
-			<title>Discreet</title>
+			<name>Discreet</name>
 			<price>25,000 IQD</price>
 			<text>باشترین کرێمی دیسکریتی ئۆرجیناڵی ئوستوڕاڵی
 بۆ تۆخ کردنەوە و ڕەشکردنەوەی تاڵە سپیەکانی قژت
